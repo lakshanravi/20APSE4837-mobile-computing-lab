@@ -1,0 +1,18 @@
+# Gradle
+.gradle/
+build/
+gradlew
+gradlew.bat
+gradle/
+
+# IntelliJ IDEA
+.idea/
+
+# Compiled files
+*.class
+*.jar
+*.war
+
+# OS files
+.DS_Store
+Thumbs.db
