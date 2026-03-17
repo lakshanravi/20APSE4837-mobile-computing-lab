@@ -67,7 +67,11 @@ fun question7() {
         factorial *= i
     }
     println("Factorial of $n: $factorial")
+<<<<<<<< HEAD:src/main/kotlin/Main.kt
 
+========
+    
+>>>>>>>> 5240ac8 (Restructured project into Day_01 and Day_02 folders):Day_01/Main.kt
 }
 
 fun question8() {
