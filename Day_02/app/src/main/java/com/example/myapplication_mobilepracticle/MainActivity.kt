@@ -48,7 +48,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 @Composable
 fun Hello() {
     Text(
-        text = "Hello students!",
+        text = "Hello studentsssss!",
         modifier = Modifier
             .fillMaxWidth()
             .background(Color.Cyan)
